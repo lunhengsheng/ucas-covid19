@@ -143,6 +143,7 @@ $ crontab -e
 - 2020年12月2日 网站证书配置有误导致打卡失败，修改代码为不验证证书
 
 
+
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
 - 感谢 [tyfulcrum](https://github.com/IanSmith123/ucas-covid19/pull/2) 对文档的完善工作
