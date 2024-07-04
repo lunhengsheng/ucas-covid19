@@ -127,6 +127,7 @@ $ crontab -e
 15 20* * * /usr/bin/python3  /root/ucas-covid19/sub.py >>/tmp/yqfk.log
 ```
 
+
 # 跋
 
 只接受PR，不接受需求。
